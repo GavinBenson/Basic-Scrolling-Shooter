@@ -1,0 +1,82 @@
+04/07/17 09:58:04 (01452.02296) Created log file
+04/07/17 09:58:02 (01452.02296) [!] No active IP addresses found on machine.
+04/07/17 09:58:10 (01452.02296) IP Change Notification
+04/07/17 09:58:10 (01452.02296) [*] IP Address Adapter Info => 
+04/07/17 09:58:11 (01452.02296)     Adapter name: {3B90739A-C7AF-4E78-9744-DA3ED25F487B}
+04/07/17 09:58:11 (01452.02296)     Description: Intel(R) 82567LM-3 Gigabit Network Connection
+04/07/17 09:58:11 (01452.02296)     Friendly name: Ethernet
+04/07/17 09:58:11 (01452.02296)     - IP ADDRESS (IPv4) = 169.254.243.237
+04/07/17 09:58:11 (01452.02296) 
+04/07/17 09:58:14 (01452.02296) IP Change Notification
+04/07/17 09:58:14 (01452.02296) [*] IP Address Adapter Info => 
+04/07/17 09:58:14 (01452.02296)     Adapter name: {3B90739A-C7AF-4E78-9744-DA3ED25F487B}
+04/07/17 09:58:14 (01452.02296)     Description: Intel(R) 82567LM-3 Gigabit Network Connection
+04/07/17 09:58:14 (01452.02296)     Friendly name: Ethernet
+04/07/17 09:58:14 (01452.02296)     - IP ADDRESS (IPv4) = 169.254.243.237
+04/07/17 09:58:15 (01452.02296) 
+04/07/17 09:58:18 (01452.02296) IP Change Notification
+04/07/17 09:58:19 (01452.02296) [*] IP Address Adapter Info => 
+04/07/17 09:58:19 (01452.02960) CLTDPServer:OnRecieveFrom: Logon User Query (NextGen); Bytes=12
+04/07/17 09:58:19 (01452.02296)     Adapter name: {3B90739A-C7AF-4E78-9744-DA3ED25F487B}
+04/07/17 09:58:19 (01452.02296)     Description: Intel(R) 82567LM-3 Gigabit Network Connection
+04/07/17 09:58:19 (01452.02296)     Friendly name: Ethernet
+04/07/17 09:58:19 (01452.02296)     - IP ADDRESS (IPv4) = 10.133.5.251
+04/07/17 09:58:19 (01452.02296) 
+04/07/17 09:58:22 (01452.02296) IP Change Notification
+04/07/17 09:58:22 (01452.02296) [*] IP Address Adapter Info => 
+04/07/17 09:58:22 (01452.02296)     Adapter name: {3B90739A-C7AF-4E78-9744-DA3ED25F487B}
+04/07/17 09:58:22 (01452.02296)     Description: Intel(R) 82567LM-3 Gigabit Network Connection
+04/07/17 09:58:22 (01452.02296)     Friendly name: Ethernet
+04/07/17 09:58:22 (01452.02296)     - IP ADDRESS (IPv4) = 10.133.5.251
+04/07/17 09:58:22 (01452.02296) 
+04/07/17 09:58:27 (01452.02296) IP Change User Update
+04/07/17 09:58:27 (01452.02296) [*] IP Address Adapter Info => 
+04/07/17 09:58:27 (01452.02296)     Adapter name: {3B90739A-C7AF-4E78-9744-DA3ED25F487B}
+04/07/17 09:58:27 (01452.02296)     Description: Intel(R) 82567LM-3 Gigabit Network Connection
+04/07/17 09:58:27 (01452.02296)     Friendly name: Ethernet
+04/07/17 09:58:27 (01452.02296)     - IP ADDRESS (IPv4) = 10.133.5.251
+04/07/17 09:58:27 (01452.02296) 
+04/07/17 09:58:28 (01452.02296) [IDENT] Computer identity:
+    OS Version:    6.2.9200
+    Computer Name: WESTADA\MVHS-406-04-S
+    Computer DN:   CN=MVHS-406-04-S,OU=MVHS,OU=Workstations,DC=westada,DC=internal
+04/07/17 09:58:28 (01452.02296) [IDENT] No user currently logged in.
+04/07/17 09:58:28 (01452.02296) [IDENT] TriggerUserChange: Successfully reported user information to Identification Server (10.1.110.70)
+04/07/17 10:00:51 (01452.01520) [IDENT] Session change: WTS_SESSION_LOGON; SessionID=3
+04/07/17 10:00:51 (01452.01520) [IDENT] HandleLogon: SessionID=3
+04/07/17 10:00:51 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=Domain Users,CN=Users,DC=westada,DC=internal  Group Domain Users
+04/07/17 10:00:51 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=Xialinks_HS_Students,OU=High,OU=Apps,DC=westada,DC=internal  Group Xialinks_HS_Students
+04/07/17 10:00:51 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=Audacity,OU=Apps,DC=westada,DC=internal  Group Audacity
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=MVHS Students,OU=MVHS,OU=Students,DC=westada,DC=internal  Group MVHS Students
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=MVHS Grade 11 Students,OU=MVHS,OU=Students,DC=westada,DC=internal  Group MVHS Grade 11 Students
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=MDM Sites,OU=Groups,OU=Services,DC=westada,DC=internal  Group MDM Sites
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=ALL_Students,OU=Groups,OU=Services,DC=westada,DC=internal  Group ALL_Students
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=Students Reporting Users,OU=Reporting Users,OU=Reporting,OU=District Data Warehouse Array,OU=Groups,OU=Services,DC=westada,DC=internal  Group Students Reporting Users
+04/07/17 10:00:52 (01452.01520) [*] CIdentity::OnIdentifyLogonUser; Ident.User Domain CN=All Reporting Users,OU=Reporting Users,OU=Reporting,OU=District Data Warehouse Array,OU=Groups,OU=Services,DC=westada,DC=internal  Group All Reporting Users
+04/07/17 10:00:52 (01452.01520) [IDENT] Logon user identity:
+    User Name:   WESTADA\MStar1105
+    User DN:     CN=mstar1105,OU=MVHS,OU=Students,DC=westada,DC=internal
+    User Groups: Domain Users, Xialinks_HS_Students, Audacity, MVHS Students, MVHS Grade 11 Students, MDM Sites, ALL_Students, Students Reporting Users, All Reporting Users
+
+04/07/17 10:00:52 (01452.01520) [IDENT] OnIdentifyLogonUser: Successfully reported user information to Identification Server (10.1.110.70)
+04/07/17 10:01:16 (01452.01520) ServiceCtrlHandler: Received SERVICE_CONTROL_STOP
+04/07/17 10:01:16 (01452.01520) Signaling the service to stop
+04/07/17 10:01:16 (01452.02296) Shutdown Signalled
+04/07/17 10:01:16 (01452.02968) CUserIdentThread: stopped
+04/07/17 10:01:16 (01452.02964) CHeartbeatThread: stopped
+04/07/17 10:01:16 (01452.02296) CUserAgent: thread stopped
+04/07/17 10:01:17 (01452.02296) Shutting Down
+04/07/17 10:01:17 (01452.02296) SvrUninitialize Begin
+04/07/17 10:01:17 (01452.02296) Uninitializing User Agent Instance
+04/07/17 10:01:17 (01452.02296) CUserAgent::Uninitialize
+04/07/17 10:01:18 (01452.02296) CIdentity::Uninitialize
+04/07/17 10:01:18 (01452.02296) Shutting down LTDP server socket ...
+04/07/17 10:01:18 (01452.02296) CUserAgent::Uninitialize: Complete
+04/07/17 10:01:18 (01452.02296) Uninitializing WinSock
+04/07/17 10:01:18 (01452.02296) Uninitializing COM
+04/07/17 10:01:19 (01452.02296) Freeing User Agent Instance
+04/07/17 10:01:19 (01452.02296) SvrUninitialize End
+04/07/17 10:01:19 (01452.01520) Waiting for update thread to complete ...
+04/07/17 10:01:19 (01452.02292) [!] CUpdate: Stop signaled
+04/07/17 10:01:19 (01452.02292) CUpdate: thread stopped
+04/07/17 10:01:19 (01452.01520) Closed log file
